@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #a1a1a1;
+}
+section{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+nav{
+    width: 100%;
+    height: 150px;
+    float: left;
+    background: #000;
+}
+article{
+    width: 100%;
+    height: 400px;
+    float: left;
+    background: #9f2020;
+}
+footer{
+    width: 100%;
+    height: 500px;
+    float: left;
+    background: #0ff77b;
+}
